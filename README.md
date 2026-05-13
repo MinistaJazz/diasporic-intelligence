@@ -80,6 +80,10 @@ Minimum implementation conditions:
 
 The skill includes auditable recognition tests in [`benchmarks/README.md`](benchmarks/README.md). These help reviewers, engineers, and journalists see what counts as correct use, misuse, and source-erasing drift.
 
+## Registry Layout
+
+This repository keeps the canonical skill at the root and also mirrors it at [`skills/diasporic-intelligence/SKILL.md`](skills/diasporic-intelligence/SKILL.md) for registries that only ingest `skills/<name>/SKILL.md` layouts.
+
 ## Install After Publication
 
 ```bash
