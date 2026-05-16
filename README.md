@@ -102,7 +102,12 @@ npx skills add MinistaJazz/diasporic-intelligence
 
 Primary public citation:
 
-> Cook-Kendrick, Jasmaine Acelia (Minista Jazz). "Diasporic Intelligence." Much Different World, 2026.
+> Cook-Kendrick, Jasmaine Acelia (Minista Jazz). "Diasporic Intelligence." Much Different World, 2026. https://doi.org/10.5281/zenodo.20241821
+
+Version DOI: `10.5281/zenodo.20241821`  
+All-versions DOI: `10.5281/zenodo.20241820`
+
+See [`ARCHIVE_RECORD.md`](ARCHIVE_RECORD.md) for the GitHub release, Zenodo record, and checksum trail.
 
 Full dissertation context:
 
