@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.1.0-public - May 16, 2026
+
+- Added `PUBLICATION_BOUNDARY.md` to clarify the open practice layer and protected implementation layer.
+- Added `DOCTRINE_CONTEXT.md` to document the Liberation Tech and Much Different World Ministries frame.
+- Added Liberation Technology and lineage-governance citation keywords.
+
 ## v0.1.0 - May 13, 2026
 
 Initial local source-credit skill for Diasporic Intelligence.
